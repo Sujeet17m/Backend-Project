@@ -18,3 +18,13 @@ cookie praser ki mein apne server se user ki browser se cookies access bhi kar p
 middleware - checkin
 
 err,req,res,next
+
+index : true => used in searching field better optimized
+
+mongoose-aggregate-paginate-v2 => 
+
+bcrypt => it helps to hash your password
+
+jwt => json web token => bearer token (jo usko bear karta hai usko sahi manlata hai)ye token jiske bhi pass hai usko token bhejdunga like keys
+
+pre hook => executed one after another , when each middlewares calls next
