@@ -28,3 +28,10 @@ bcrypt => it helps to hash your password
 jwt => json web token => bearer token (jo usko bear karta hai usko sahi manlata hai)ye token jiske bhi pass hai usko token bhejdunga like keys
 
 pre hook => executed one after another , when each middlewares calls next
+
+middleware - matlab jo bhi kaam karne se pehle mujhse milke jana
+Cloudinary :
+express-fileupload or multer for file uploading
+fs:file system
+
+multer : [multer github link](https://github.com/expressjs/multer)
